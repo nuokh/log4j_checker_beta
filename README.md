@@ -6,7 +6,7 @@ This only checks if it is impossible, that you could be vulnerable.
 
 ## Run with:
 
-    wget https://raw.githubusercontent.com/rubo77/log4j_checker_beta/main/log4j_checker_beta.sh -q -O - |bash
+    wget https://raw.githubusercontent.com/nuokh/log4j_checker_beta/main/log4j_checker_beta.sh -q -O - |bash
 
 ## dependencies
 
